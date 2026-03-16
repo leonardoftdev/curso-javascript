@@ -1,13 +1,13 @@
-var p = 1
+var c = 1
 
 while (c <= 2) {
-    console.log(`Passo ${p}`)
+    console.log(`Passo ${c}`)
     c++
 }
 
-var c = 1
+var p = 1
 
 do {
-    console.log(`Contador ${c}`)
-    c++
-} while (c <= 6) 
+    console.log(`Contador ${p}`)
+    p++
+} while (p <= 2) 
